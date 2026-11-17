@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AmunChain — Security & Operational Readiness",
+      "hasCanvas": false,
+      "bodyTextLen": 9220,
+      "bodyTextHash": "42470799dc124526e6d45d4bd4cedc589f70b45948e4b2c06251894406758fa1",
+      "bodyTextPrefix": "Skip to content AmunChain LAYER 0 Overview Solidarity Principles",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AmunChain — Security & Operational Readiness",
+      "hasCanvas": false,
+      "bodyTextLen": 9147,
+      "bodyTextHash": "9611a88f25b8bf21eda554b5c90724bbc39867553cb24416058b5a9b5c226e67",
+      "bodyTextPrefix": "Skip to content AmunChain Open menu HOLD Working posture while c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
